@@ -10,7 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc528071-31ea-4aaf-8747-91773f1ed853" name="Changes" comment="updates">
-      <change afterPath="$PROJECT_DIR$/src/mk/8.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/en/8.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
       <workItem from="1710632812155" duration="1762000" />
       <workItem from="1710683747496" duration="6217000" />
       <workItem from="1710714947616" duration="3879000" />
-      <workItem from="1714294947523" duration="1249000" />
+      <workItem from="1714294947523" duration="2398000" />
     </task>
     <task id="LOCAL-00001" summary="add ex file">
       <option name="closed" value="true" />
