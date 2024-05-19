@@ -9,8 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc528071-31ea-4aaf-8747-91773f1ed853" name="Changes" comment="updates">
-      <change afterPath="$PROJECT_DIR$/src/en/8.md" afterDir="false" />
+    <list default="true" id="bc528071-31ea-4aaf-8747-91773f1ed853" name="Changes" comment="Add aud 9">
+      <change afterPath="$PROJECT_DIR$/src/en/11.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mk/11.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,11 +45,13 @@
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Documents/FINKI/leten/OOP/OOP-2023-2024&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -64,6 +67,9 @@
       <workItem from="1710683747496" duration="6217000" />
       <workItem from="1710714947616" duration="3879000" />
       <workItem from="1714294947523" duration="2398000" />
+      <workItem from="1714380658026" duration="1765000" />
+      <workItem from="1716103962625" duration="5899000" />
+      <workItem from="1716144891360" duration="1487000" />
     </task>
     <task id="LOCAL-00001" summary="add ex file">
       <option name="closed" value="true" />
@@ -97,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710724636408</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add aud 9">
+      <option name="closed" value="true" />
+      <created>1714381935905</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714381935905</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +133,7 @@
     <MESSAGE value="add problems" />
     <MESSAGE value="auditory Ex 4" />
     <MESSAGE value="updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="updates" />
+    <MESSAGE value="Add aud 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add aud 9" />
   </component>
 </project>
