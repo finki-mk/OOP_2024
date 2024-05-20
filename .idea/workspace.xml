@@ -9,11 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc528071-31ea-4aaf-8747-91773f1ed853" name="Changes" comment="Add aud 9">
-      <change afterPath="$PROJECT_DIR$/src/en/11.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mk/11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bc528071-31ea-4aaf-8747-91773f1ed853" name="Changes" comment="Add aud 9" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +65,7 @@
       <workItem from="1714294947523" duration="2398000" />
       <workItem from="1714380658026" duration="1765000" />
       <workItem from="1716103962625" duration="5899000" />
-      <workItem from="1716144891360" duration="1487000" />
+      <workItem from="1716144891360" duration="1923000" />
     </task>
     <task id="LOCAL-00001" summary="add ex file">
       <option name="closed" value="true" />
@@ -122,7 +118,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
